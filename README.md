@@ -48,7 +48,7 @@
 #### 5. [🎓 GitHub README for College Outreach](docs/GitHub_README_College_Outreach.md)
 - Professional README targeting college HODs and faculty for intern recruitment
 - Detailed descriptions of 11 technical and non-technical intern positions
-- Clear benefits: 0.25%-2% equity + learning opportunities + future salary potential
+- Clear benefits: Equity participation based on role and contribution + learning opportunities + future salary potential
 - Complete application process and contact information
 
 #### 6. [🎯 Resource Gathering Team Structure](docs/Resource_Gathering_Team_Structure.md)
@@ -83,7 +83,7 @@
 
 ### 🎓 **Team Structure**
 - **5 Core Technical Members**: CTO, Frontend Lead, Mobile Lead, Backend Developers
-- **11 Intern Positions**: Technical and non-technical roles with equity participation
+- **11 Intern Positions**: Technical and non-technical roles with equity participation based on contribution
 - **5 Resource Team Members**: Specialized roles for funding and partnerships
 - **5 Non-Technical Team Members**: Business development and funding specialists
 
@@ -108,7 +108,7 @@
 ### 📋 **For Students Interested in Joining**
 1. Read the [College Outreach README](docs/GitHub_README_College_Outreach.md) for available positions
 2. Review the [Implementation Roadmap](docs/AI_Multi_Service_Platform_Implementation_Roadmap.md) to understand the timeline
-3. Check the compensation structure (equity-based with future salary potential)
+3. Check the compensation structure (equity participation based on role and contribution with future salary potential)
 4. Apply through the application process outlined in the documents
 
 ### 🏫 **For Educational Institutions**
@@ -128,18 +128,18 @@
 ## 📞 Contact Information
 
 ### 👥 **Founding Team**
-- **Durvesh** - CTO & Backend Lead | 15% equity + future CTO salary
-- **Karan** - Frontend Lead | 12% equity + future senior developer salary
-- **Sharvil** - Mobile Lead | 10% equity + future mobile lead salary
-- **Shreesh** - Backend Developer | 3% equity + learning opportunities
-- **Adityan** - Backend Developer | 3% equity + learning opportunities
+- **Durvesh** - CTO & Backend Lead | Equity participation + future CTO salary
+- **Karan** - Frontend Lead | Equity participation + future senior developer salary
+- **Sharvil** - Mobile Lead | Equity participation + future mobile lead salary
+- **Shreesh** - Backend Developer | Equity participation + learning opportunities
+- **Adityan** - Backend Developer | Equity participation + learning opportunities
 
 ### 🏢 **Official Contacts**
-- **Email**: careers@aimultiservice.com
-- **Partnership Email**: partnerships@aimultiservice.com
-- **Website**: www.aimultiservice.com
-- **LinkedIn**: [Company LinkedIn Page]
-- **Twitter**: @aimultiservice
+- **Email**: [Contact information to be added]
+- **Partnership Email**: [Partnership contact to be added]
+- **Website**: [Website to be added]
+- **LinkedIn**: [Company LinkedIn Page to be added]
+- **Twitter**: [Social media handles to be added]
 
 ---
 

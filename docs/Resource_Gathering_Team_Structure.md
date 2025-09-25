@@ -14,7 +14,7 @@ The Resource Gathering Team is a specialized unit within our AI Multi-Service Pl
 **Position**: Senior Team Member (Part-time, 15 hours/week)
 **Start Date**: Week 1
 **Duration**: Full project (24 weeks)
-**Compensation**: 1% equity + learning opportunities + future salary when funded
+**Compensation**: Equity participation based on role and contribution + learning opportunities + future salary when funded
 
 #### **Primary Responsibilities**:
 - [ ] Coordinate all resource gathering activities
@@ -41,7 +41,7 @@ The Resource Gathering Team is a specialized unit within our AI Multi-Service Pl
 **Position**: Intern (Part-time, 12 hours/week)
 **Start Date**: Week 2
 **Duration**: Full project (22 weeks)
-**Compensation**: 0.5% equity + learning opportunities + future salary when funded
+**Compensation**: Equity participation based on role and contribution + learning opportunities + future salary when funded
 
 #### **Primary Responsibilities**:
 - [ ] Research government grants and funding schemes
@@ -76,7 +76,7 @@ The Resource Gathering Team is a specialized unit within our AI Multi-Service Pl
 **Position**: Intern (Part-time, 10 hours/week)
 **Start Date**: Week 1
 **Duration**: Full project (24 weeks)
-**Compensation**: 0.25% equity + learning opportunities + future salary when funded
+**Compensation**: Equity participation based on role and contribution + learning opportunities + future salary when funded
 
 #### **Primary Responsibilities**:
 - [ ] Activate GitHub Student Pack for all team members

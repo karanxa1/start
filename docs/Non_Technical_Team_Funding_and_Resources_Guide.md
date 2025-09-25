@@ -16,19 +16,19 @@ This comprehensive guide is designed specifically for **non-technical team membe
 - **Background**: Business/MBA student with research skills
 - **Commitment**: 15-20 hours/week
 - **Duration**: Full project (24 weeks)
-- **Compensation**: 2% equity + learning opportunities + future salary when funded
+- **Compensation**: Equity participation based on role and contribution + learning opportunities + future salary when funded
 
 #### **2. Partnership Development Specialist**
 - **Background**: Business development or marketing student
 - **Commitment**: 12-15 hours/week
 - **Duration**: 20 weeks (Week 3-22)
-- **Compensation**: 1% equity + learning opportunities + future salary when funded
+- **Compensation**: Equity participation based on role and contribution + learning opportunities + future salary when funded
 
 #### **3. Government Relations Coordinator**
 - **Background**: Public administration, law, or business student
 - **Commitment**: 10-12 hours/week
 - **Duration**: 18 weeks (Week 4-21)
-- **Compensation**: 0.5% equity + learning opportunities + future salary when funded
+- **Compensation**: Equity participation based on role and contribution + learning opportunities + future salary when funded
 
 #### **4. Resource Acquisition Specialist**
 - **Background**: Any background with strong organizational skills
@@ -40,7 +40,7 @@ This comprehensive guide is designed specifically for **non-technical team membe
 - **Background**: Law, business, or administration student
 - **Commitment**: 6-8 hours/week
 - **Duration**: 16 weeks (Week 6-21)
-- **Compensation**: 0.25% equity + learning opportunities + future salary when funded
+- **Compensation**: Equity participation based on role and contribution + learning opportunities + future salary when funded
 
 ---
 

@@ -36,7 +36,7 @@
 - **Industry Exposure**: Startup ecosystem, funding, scaling strategies
 
 ### 💰 **Compensation & Benefits**
-- **Equity Participation**: 0.25% - 1% equity based on role and contribution
+- **Equity Participation**: Equity participation based on role and contribution
 - **Learning Opportunities**: Real-world startup experience and skill development
 - **Future Employment**: Full-time offers with competitive salaries once funded
 - **Portfolio Building**: Work on production-grade projects for your resume
@@ -60,14 +60,14 @@ Intern → Junior Developer → Senior Developer → Team Lead → CTO/VP Engine
 - **Skills**: React, JavaScript, CSS, UI/UX basics
 - **Commitment**: 15-20 hours/week
 - **Duration**: 6 months (extendable)
-- **Compensation**: 0.5-1% equity + learning opportunities + future salary potential
+- **Compensation**: Equity participation based on role and contribution + learning opportunities + future salary potential
 - **Learning**: Advanced React, Next.js, TypeScript, modern frontend practices
 
 #### **Backend Developer Intern** (2 positions)
 - **Skills**: Node.js, Python, or Java basics
 - **Commitment**: 15-20 hours/week
 - **Duration**: 6 months (extendable)
-- **Compensation**: 0.5-1% equity + learning opportunities + future salary potential
+- **Compensation**: Equity participation based on role and contribution + learning opportunities + future salary potential
 - **Learning**: API development, database design, cloud deployment, AI integration
 
 #### **Mobile App Developer Intern** (1 position)
@@ -88,14 +88,14 @@ Intern → Junior Developer → Senior Developer → Team Lead → CTO/VP Engine
 - **Skills**: Basic cloud knowledge, Linux, scripting
 - **Commitment**: 10-15 hours/week
 - **Duration**: 4 months (starting Week 8)
-- **Compensation**: 0.25-0.5% equity + learning opportunities + future salary potential
+- **Compensation**: Equity participation based on role and contribution + learning opportunities + future salary potential
 - **Learning**: CI/CD, cloud infrastructure, monitoring, security
 
 #### **QA/Testing Engineer Intern** (1 position)
 - **Skills**: Testing fundamentals, attention to detail
 - **Commitment**: 10-12 hours/week
 - **Duration**: 3 months (starting Week 12)
-- **Compensation**: 0.25-0.5% equity + learning opportunities + future salary potential
+- **Compensation**: Equity participation based on role and contribution + learning opportunities + future salary potential
 - **Learning**: Automated testing, quality assurance, bug tracking
 
 ### 🎨 **Non-Technical Roles**
@@ -121,13 +121,13 @@ Intern → Junior Developer → Senior Developer → Team Lead → CTO/VP Engine
 #### **Customer Success Intern** (1 position)
 - **Skills**: Communication, problem-solving, empathy
 - **Commitment**: 8-12 hours/week (starting Week 8)
-- **Compensation**: 0.25% equity + learning opportunities + future salary potential
+- **Compensation**: Equity participation based on role and contribution + learning opportunities + future salary potential
 - **Learning**: Customer support, user onboarding, retention strategies
 
 #### **Growth & Analytics Intern** (1 position)
 - **Skills**: Data analysis, Excel/Google Sheets, curiosity
 - **Commitment**: 8-10 hours/week (starting Week 10)
-- **Compensation**: 0.25% equity + learning opportunities + future salary potential
+- **Compensation**: Equity participation based on role and contribution + learning opportunities + future salary potential
 - **Learning**: Growth hacking, data analytics, conversion optimization
 
 ---
@@ -347,21 +347,21 @@ API Integration → Prompt Engineering → Model Optimization → Custom Trainin
 ## 📞 Contact Information
 
 ### 👥 **Founding Team**
-- **Durvesh** - CTO & Backend Lead | [email] | [LinkedIn]
-- **Karan** - Frontend Lead | [email] | [LinkedIn]
-- **Sharvil** - Mobile Lead | [email] | [LinkedIn]
+- **Durvesh** - CTO & Backend Lead | [Contact information to be added]
+- **Karan** - Frontend Lead | [Contact information to be added]
+- **Sharvil** - Mobile Lead | [Contact information to be added]
 
 ### 🏢 **Official Contacts**
-- **Email**: careers@aimultiservice.com
-- **Website**: www.aimultiservice.com
-- **LinkedIn**: [Company LinkedIn Page]
-- **Twitter**: @aimultiservice
-- **Discord**: [Community Server Link]
+- **Email**: [Contact information to be added]
+- **Website**: [Website to be added]
+- **LinkedIn**: [Company LinkedIn Page to be added]
+- **Twitter**: [Social media handles to be added]
+- **Discord**: [Community Server Link to be added]
 
 ### 🎓 **For Faculty & HODs**
-- **Partnership Email**: partnerships@aimultiservice.com
-- **Phone**: +91-XXXXX-XXXXX
-- **Meeting Scheduler**: [Calendly Link]
+- **Partnership Email**: [Partnership contact to be added]
+- **Phone**: [Phone number to be added]
+- **Meeting Scheduler**: [Meeting scheduler to be added]
 
 ---
 
@@ -372,7 +372,7 @@ API Integration → Prompt Engineering → Model Optimization → Custom Trainin
 ### 📝 **Apply Now**
 1. **Student Application**: [Application Form Link]
 2. **Faculty Partnership**: [Partnership Form Link]
-3. **General Inquiry**: careers@aimultiservice.com
+3. **General Inquiry**: [Contact information to be added]
 
 ### 📅 **Important Dates**
 - **Application Deadline**: Rolling basis (apply early!)

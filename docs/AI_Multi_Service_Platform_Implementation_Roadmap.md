@@ -16,25 +16,25 @@ This implementation roadmap provides a detailed 24-week plan for building and la
 **Durvesh - Chief Technology Officer & Backend Lead**
 - **Primary Focus**: Backend architecture, API integrations, database design
 - **Weekly Commitment**: 25+ hours
-- **Compensation**: 15% equity + future CTO salary when funded
+- **Compensation**: Equity participation based on role and contribution + future CTO salary when funded
 - **Key Deliverables**: Authentication system, AI API integration, payment processing
 
 **Karan - Frontend Lead & Context Memory Engineer**
 - **Primary Focus**: React frontend, user experience, context memory system
 - **Weekly Commitment**: 25+ hours
-- **Compensation**: 12% equity + future senior developer salary when funded
+- **Compensation**: Equity participation based on role and contribution + future senior developer salary when funded
 - **Key Deliverables**: Web interface, dashboard, mobile-responsive design
 
 **Sharvil - Lead Mobile App Developer**
 - **Primary Focus**: React Native mobile app development
 - **Weekly Commitment**: 20+ hours (starts Week 10)
-- **Compensation**: 10% equity + future mobile lead salary when funded
+- **Compensation**: Equity participation based on role and contribution + future mobile lead salary when funded
 - **Key Deliverables**: iOS/Android apps, cross-platform synchronization
 
 **Shreesh - API Integration & Learning Backend**
 - **Primary Focus**: External API integrations, utility services
 - **Weekly Commitment**: 15+ hours
-- **Compensation**: 3% equity + learning opportunities + future developer salary when funded
+- **Compensation**: Equity participation based on role and contribution + learning opportunities + future developer salary when funded
 - **Key Deliverables**: Weather API, currency API, image processing
 
 **Adityan - Utility Services & Learning Backend**
@@ -46,17 +46,17 @@ This implementation roadmap provides a detailed 24-week plan for building and la
 ### 2.2 Intern Positions (To Be Recruited)
 
 **Technical Interns (Placeholder Names - To Be Hired):**
-- **[AI/ML Intern]** - Week 4 start, 15 hours/week, 0.5-1% equity + learning opportunities
-- **[Full Stack Intern]** - Week 6 start, 15 hours/week, 0.5-1% equity + learning opportunities
-- **[DevOps Intern]** - Week 8 start, 12 hours/week, 0.25-0.5% equity + learning opportunities
-- **[QA/Testing Intern]** - Week 12 start, 12 hours/week, 0.25-0.5% equity + learning opportunities
+- **[AI/ML Intern]** - Week 4 start, 15 hours/week, Equity participation based on role and contribution + learning opportunities
+- **[Full Stack Intern]** - Week 6 start, 15 hours/week, Equity participation based on role and contribution + learning opportunities
+- **[DevOps Intern]** - Week 8 start, 12 hours/week, Equity participation based on role and contribution + learning opportunities
+- **[QA/Testing Intern]** - Week 12 start, 12 hours/week, Equity participation based on role and contribution + learning opportunities
 
 **Non-Technical Interns (Placeholder Names - To Be Hired):**
-- **[Business Development Intern]** - Week 1 start, 10 hours/week, 0.25-0.5% equity + learning opportunities
-- **[Content Marketing Intern]** - Week 2 start, 12 hours/week, 0.25-0.5% equity + learning opportunities
-- **[UI/UX Design Intern]** - Week 3 start, 10 hours/week, 0.25-0.5% equity + learning opportunities
-- **[Customer Success Intern]** - Week 8 start, 10 hours/week, 0.25% equity + learning opportunities
-- **[Growth Analytics Intern]** - Week 10 start, 10 hours/week, 0.25% equity + learning opportunities
+- **[Business Development Intern]** - Week 1 start, 10 hours/week, Equity participation based on role and contribution + learning opportunities
+- **[Content Marketing Intern]** - Week 2 start, 12 hours/week, Equity participation based on role and contribution + learning opportunities
+- **[UI/UX Design Intern]** - Week 3 start, 10 hours/week, Equity participation based on role and contribution + learning opportunities
+- **[Customer Success Intern]** - Week 8 start, 10 hours/week, Equity participation based on role and contribution + learning opportunities
+- **[Growth Analytics Intern]** - Week 10 start, 10 hours/week, Equity participation based on role and contribution + learning opportunities
 
 ## 3. Phase 1: MVP Development & Revenue Generation (Weeks 1-8)
 
@@ -789,15 +789,15 @@ This implementation roadmap provides a detailed 24-week plan for building and la
 ### 6.2 Team Compensation Structure
 
 **Core Team Equity:**
-- Durvesh (CTO): 15% equity + future CTO salary when funded
-- Karan (Frontend Lead): 12% equity + future senior developer salary when funded
-- Sharvil (Mobile Lead): 10% equity + future mobile lead salary when funded
-- Shreesh: 3% equity + learning opportunities + future developer salary when funded
-- Adityan: 3% equity + learning opportunities + future developer salary when funded
+- Durvesh (CTO): Equity participation based on role and contribution + future CTO salary when funded
+- Karan (Frontend Lead): Equity participation based on role and contribution + future senior developer salary when funded
+- Sharvil (Mobile Lead): Equity participation based on role and contribution + future mobile lead salary when funded
+- Shreesh: Equity participation based on role and contribution + learning opportunities + future developer salary when funded
+- Adityan: Equity participation based on role and contribution + learning opportunities + future developer salary when funded
 
 **Intern Compensation:**
-- Technical interns: 0.5-1% equity + learning opportunities + future salary potential
-- Non-technical interns: 0.25-0.5% equity + learning opportunities + future salary potential
+- Technical interns: Equity participation based on role and contribution + learning opportunities + future salary potential
+- Non-technical interns: Equity participation based on role and contribution + learning opportunities + future salary potential
 
 **Revenue Sharing:**
 - Months 1-6: 100% reinvestment in growth and infrastructure
