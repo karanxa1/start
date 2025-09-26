@@ -93,8 +93,8 @@ const Layout = ({ children }: LayoutProps) => {
 
             {/* Desktop Navigation */}
             <div className="hidden lg:flex items-center flex-1 justify-end max-w-none">
-              <div className="flex items-center space-x-1 max-w-full overflow-hidden">
-                <nav className="flex space-x-0.5 flex-shrink min-w-0">
+              <div className="flex items-center space-x-2 max-w-full overflow-hidden bg-white/5 dark:bg-gray-800/20 backdrop-blur-sm rounded-xl px-3 py-2 border border-gray-200/50 dark:border-gray-700/50">
+                <nav className="flex space-x-1 flex-shrink min-w-0">
                   {navigation.map((item) => {
                     const Icon = item.icon
                     const active = isActive(item.href)
@@ -102,18 +102,18 @@ const Layout = ({ children }: LayoutProps) => {
                       <Link
                         key={item.name}
                         to={item.href}
-                        className={`group relative flex items-center space-x-1 px-1.5 py-1 rounded-md text-xs font-medium transition-all duration-200 flex-shrink-0 ${
+                        className={`group relative flex items-center space-x-2 px-3 py-2 rounded-lg text-sm font-medium transition-all duration-300 flex-shrink-0 ${
                           active
-                            ? 'bg-gradient-to-r from-primary-100 to-accent-100 dark:from-primary-900/30 dark:to-accent-900/30 text-primary-700 dark:text-primary-300 shadow-soft'
-                            : 'text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-gray-100 hover:bg-gray-100 dark:hover:bg-gray-800/50'
+                            ? 'bg-gradient-to-r from-primary-500/10 to-accent-500/10 dark:from-primary-400/20 dark:to-accent-400/20 text-primary-600 dark:text-primary-400 shadow-sm border border-primary-200/50 dark:border-primary-700/50'
+                            : 'text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-gray-100 hover:bg-gray-100/80 dark:hover:bg-gray-800/60 hover:shadow-sm'
                         }`}
                       >
-                        <Icon className={`w-3 h-3 transition-transform duration-200 ${
-                          active ? 'scale-110' : 'group-hover:scale-105'
+                        <Icon className={`w-4 h-4 transition-all duration-300 ${
+                          active ? 'scale-110 text-primary-600 dark:text-primary-400' : 'group-hover:scale-105 group-hover:text-gray-700 dark:group-hover:text-gray-300'
                         }`} />
-                        <span className="whitespace-nowrap text-xs hidden xl:inline">{item.shortName}</span>
+                        <span className="whitespace-nowrap text-sm hidden xl:inline font-medium">{item.shortName}</span>
                         {active && (
-                          <div className="absolute bottom-0 left-1/2 transform -translate-x-1/2 w-1 h-1 bg-primary-500 rounded-full"></div>
+                          <div className="absolute -bottom-1 left-1/2 transform -translate-x-1/2 w-2 h-0.5 bg-gradient-to-r from-primary-500 to-accent-500 rounded-full"></div>
                         )}
                       </Link>
                     )
@@ -121,16 +121,16 @@ const Layout = ({ children }: LayoutProps) => {
                 </nav>
                 
                 {/* Theme Toggle */}
-                <div className="ml-2 pl-2 border-l border-gray-200 dark:border-gray-700 flex-shrink-0">
+                <div className="ml-3 pl-3 border-l border-gray-200/60 dark:border-gray-700/60 flex-shrink-0">
                   <button
                     onClick={toggleTheme}
-                    className="p-1.5 rounded-lg text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-gray-100 hover:bg-gray-100 dark:hover:bg-gray-800/50 transition-all duration-200 group"
+                    className="p-2 rounded-lg text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-gray-100 hover:bg-gray-100/80 dark:hover:bg-gray-800/60 hover:shadow-sm transition-all duration-300 group"
                     aria-label="Toggle theme"
                   >
                     {theme === 'dark' ? (
-                      <Sun className="w-4 h-4 group-hover:rotate-12 transition-transform duration-200" />
+                      <Sun className="w-5 h-5 group-hover:rotate-12 group-hover:scale-110 transition-all duration-300" />
                     ) : (
-                      <Moon className="w-4 h-4 group-hover:-rotate-12 transition-transform duration-200" />
+                      <Moon className="w-5 h-5 group-hover:-rotate-12 group-hover:scale-110 transition-all duration-300" />
                     )}
                   </button>
                 </div>
