@@ -400,4 +400,4 @@ API Integration → Prompt Engineering → Model Optimization → Custom Trainin
 
 ---
 
-*© 2024 AI Multi-Service Platform. Built with ❤️ by students, for students.*
+*© 2025 AI Multi-Service Platform. Built with ❤️ by students, for students.*

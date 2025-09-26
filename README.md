@@ -167,4 +167,4 @@ This project documentation is open source and available for educational purposes
 
 ---
 
-*© 2024 AI Multi-Service Platform. Built with ❤️ by students, for students.*
+*© 2025 AI Multi-Service Platform. Built with ❤️ by students, for students.*

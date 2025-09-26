@@ -419,4 +419,4 @@ Resource Intern → Resource Specialist → Partnership Manager → Business Dev
 
 ---
 
-*© 2024 AI Multi-Service Platform - Resource Gathering Team Structure*
+*© 2025 AI Multi-Service Platform - Resource Gathering Team Structure*

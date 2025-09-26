@@ -138,7 +138,7 @@ graph TD
   usage: {
     monthly_queries: 150,
     monthly_limit: 1000,
-    last_reset: "2024-01-01T00:00:00Z"
+    last_reset: "2025-01-01T00:00:00Z"
   },
   profile: {
     university: "ABC University",
@@ -151,8 +151,8 @@ graph TD
     theme: "dark",
     notifications: true
   },
-  created_at: "2024-01-01T10:00:00Z",
-  updated_at: "2024-01-15T14:30:00Z"
+  created_at: "2025-01-01T10:00:00Z",
+  updated_at: "2025-01-15T14:30:00Z"
 }
 ```
 
@@ -167,20 +167,20 @@ graph TD
   context: {
     system_prompt: "You are a helpful tutor...",
     context_length: 4000,
-    last_updated: "2024-01-15T14:30:00Z"
+    last_updated: "2025-01-15T14:30:00Z"
   },
   metadata: {
     message_count: 15,
     total_tokens: 2500,
-    last_activity: "2024-01-15T14:30:00Z"
+    last_activity: "2025-01-15T14:30:00Z"
   },
   settings: {
     auto_title: true,
     save_context: true,
     model_preference: "gpt-4"
   },
-  created_at: "2024-01-15T10:00:00Z",
-  updated_at: "2024-01-15T14:30:00Z"
+  created_at: "2025-01-15T10:00:00Z",
+  updated_at: "2025-01-15T14:30:00Z"
 }
 ```
 
@@ -203,7 +203,7 @@ graph TD
     user_agent: "Mozilla/5.0...",
     platform: "web" // web, mobile, api
   },
-  created_at: "2024-01-15T14:30:00Z"
+  created_at: "2025-01-15T14:30:00Z"
 }
 ```
 
@@ -219,12 +219,12 @@ graph TD
     amount: 99.00,
     currency: "INR",
     interval: "month",
-    next_billing_date: "2024-02-15T00:00:00Z"
+    next_billing_date: "2025-02-15T00:00:00Z"
   },
   payment: {
     method: "razorpay",
     payment_id: "pay_xyz123",
-    last_payment: "2024-01-15T10:00:00Z"
+    last_payment: "2025-01-15T10:00:00Z"
   },
   features: {
     unlimited_queries: true,
@@ -232,8 +232,8 @@ graph TD
     api_access: true,
     priority_support: true
   },
-  created_at: "2024-01-15T10:00:00Z",
-  updated_at: "2024-01-15T10:00:00Z"
+  created_at: "2025-01-15T10:00:00Z",
+  updated_at: "2025-01-15T10:00:00Z"
 }
 ```
 
@@ -258,7 +258,7 @@ graph TD
     ip_address: "192.168.1.1",
     platform: "web"
   },
-  created_at: "2024-01-15T14:30:00Z"
+  created_at: "2025-01-15T14:30:00Z"
 }
 ```
 
@@ -824,4 +824,4 @@ const migrateUsers = async () => {
 
 ---
 
-*© 2024 AI Multi-Service Platform - Updated Backend Architecture with Firestore*
+*© 2025 AI Multi-Service Platform - Updated Backend Architecture with Firestore*

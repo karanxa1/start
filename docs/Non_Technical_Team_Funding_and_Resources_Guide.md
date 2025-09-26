@@ -876,4 +876,4 @@ Funding Pipeline Tracker:
 
 ---
 
-*© 2024 AI Multi-Service Platform - Non-Technical Team Funding & Resources Guide*
+*© 2025 AI Multi-Service Platform - Non-Technical Team Funding & Resources Guide*
